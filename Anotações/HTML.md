@@ -1,6 +1,6 @@
 # HTML :computer:
 
-#### Anotações e comandos
+#### Anotações e tags
 
 Principal:
 
