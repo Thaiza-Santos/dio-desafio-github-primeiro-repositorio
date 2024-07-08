@@ -3,6 +3,7 @@
 ## (e comandos úteis no Git)
 
 - listar pastas: _dir_
+- listar: _ls_
 - navegar entre pastas: _cd_
 - limpar (clear): _cls_
 - TAB: _completar_
@@ -15,6 +16,7 @@
 - descrever ação: _git commit -m_
 - ver status: _git status_
 - adicionar repositório: _git remote add origin 'link do repositório'_
+- clonar repositório: git clone <link do repositório>
 
 _git remote -v_
 
@@ -22,5 +24,4 @@ _git remote -v_
 - puxar: _git pull origin master_
 
 
-
-OBS: provavelmente a descrição dos comandos não estão totalmente corretas, irei atualizá-las depois conforme entender mais sobre o Git.
+OBS: provavelmente a descrição dos comandos não estão totalmente corretas, irei atualizá-las depois, conforme eu for entendendo mais sobre o Git.
